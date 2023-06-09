@@ -1,5 +1,5 @@
 baseURL: "https://blog.lehighur.org/"
-title: Lehigh Underwater Drone Team Blog
+title: Lehigh Underwater Robotics Team Blog
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Lehigh Underwater Robotics Team Blog
-  description: "ExampleSite description"
+  description: "Records technical challenges and finding during building the drone"
   keywords: [Blog]
   author: ["Xinhao Tang", "Jessica De Los Santos"]
   # author: ["Me", "You"] # multiple authors
