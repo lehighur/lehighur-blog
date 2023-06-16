@@ -18,7 +18,7 @@ params:
   title: Lehigh Underwater Robotics Team Blog
   description: "Records technical challenges and finding during building the drone"
   keywords: [Blog]
-  author: ["Xinhao Tang", "Jessica De Los Santos"]
+  author: ["Xinhao Tang", "Jessica De Los Santos", "Kailun Wang"]
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
