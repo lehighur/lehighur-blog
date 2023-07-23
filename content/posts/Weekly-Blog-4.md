@@ -1,10 +1,13 @@
 ---
+
 title: Weekly Blog 4
 date: 2023-06-30 14:10:48
 tags:
 draft: false
 author: Jessica De Los Santos
+
 ---
+
 Welcome to our team's weekly blog! The team has been diligently preparing for the upcoming RoboSub competition, and we're excited to share our progress with you. 
 
 This week, our mechanical team has been focused on modifying the mounts required for the thrusters, sonar, and lights. After fine-tuning these mounts, we successfully integrated them into the robot's main frame. Additionally, we finalized the downward camera mount and securely attached it to the frame. In parallel to these robot advancements, we've also been dedicated to enhancing our pool testing environment. To achieve optimal performance underwater, we have successfully printed specific images on waterproof materials and reinforced them with grommets for added support. 
